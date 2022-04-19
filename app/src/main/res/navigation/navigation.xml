@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/tvshowlist2">
+    <fragment
+        android:id="@+id/tvshowlist2"
+        android:name="com.example.myapplication2project.views.tvshowlist"
+        android:label="fragment_tvshowlist"
+        tools:layout="@layout/fragment_tvshowlist" >
+        <action
+            android:id="@+id/action_tvshowlist2_to_tvshowdetail"
+            app:destination="@id/tvshowdetail"
+            app:popUpTo="@id/tvshowlist2" />
+    </fragment>
+    <fragment
+        android:id="@+id/tvshowdetail"
+        android:name="com.example.myapplication2project.views.tvshowdetail"
+        android:label="fragment_tvshowdetail"
+        tools:layout="@layout/fragment_tvshowdetail" />
+</navigation>
