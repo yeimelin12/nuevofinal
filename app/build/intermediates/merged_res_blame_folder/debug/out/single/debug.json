@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tvshowdetail.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\fragment_tvshowdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tvshowlist.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\fragment_tvshowlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_fondoregister.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\fondoregister.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_logococktail.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\logococktail.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_usuar.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\usuar.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tasks.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_cargando.jpg.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\cargando.jpg"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_images.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_filtro1.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\filtro1.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_contrasenaolvidada.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_contrasenaolvidada.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_show_list_item.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\tv_show_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_msgpe.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\msgpe.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_candado.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\candado.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\tv.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_descarga.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\descarga.png"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_log.jpg.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\log.jpg"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_usuarios.xml.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\merged_res\\debug\\drawable_mas.png.flat",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\drawable\\mas.png"
+    }
+]

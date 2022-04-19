@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tv_show_list_item.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\tv_show_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tvshowlist.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\fragment_tvshowlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tvshowdetail.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\fragment_tvshowdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_usuarios.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contrasenaolvidada.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_contrasenaolvidada.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registro.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tasks.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\YEIMELIN\\AndroidStudioProjects\\MyApplication2project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

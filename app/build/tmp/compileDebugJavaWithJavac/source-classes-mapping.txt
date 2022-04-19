@@ -1,0 +1,20 @@
+com/example/myapplication2project/databinding/TvShowListItemBinding.java
+ com.example.myapplication2project.databinding.TvShowListItemBinding
+com/example/myapplication2project/databinding/FragmentTvshowdetailBinding.java
+ com.example.myapplication2project.databinding.FragmentTvshowdetailBinding
+com/example/myapplication2project/databinding/ActivityRegistroBinding.java
+ com.example.myapplication2project.databinding.ActivityRegistroBinding
+com/example/myapplication2project/databinding/ActivityContrasenaolvidadaBinding.java
+ com.example.myapplication2project.databinding.ActivityContrasenaolvidadaBinding
+com/example/myapplication2project/databinding/ActivityMenuBinding.java
+ com.example.myapplication2project.databinding.ActivityMenuBinding
+com/example/myapplication2project/databinding/FragmentTvshowlistBinding.java
+ com.example.myapplication2project.databinding.FragmentTvshowlistBinding
+com/example/myapplication2project/databinding/ActivityMainBinding.java
+ com.example.myapplication2project.databinding.ActivityMainBinding
+com/example/myapplication2project/BuildConfig.java
+ com.example.myapplication2project.BuildConfig
+com/example/myapplication2project/databinding/ActivityUsuariosBinding.java
+ com.example.myapplication2project.databinding.ActivityUsuariosBinding
+com/example/myapplication2project/databinding/ActivityTasksBinding.java
+ com.example.myapplication2project.databinding.ActivityTasksBinding
